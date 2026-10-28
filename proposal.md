@@ -18,7 +18,8 @@ Velzia es una herramienta para registrar ventas, pedidos, pagos, cobros, transfe
 2) Tener datos con los cuales analizar, y extraer información valiosa para el dueño del negocio. 
 
 ### Modelo
-<img width="1306" height="722" alt="BBD_Velzia drawio" src="https://github.com/user-attachments/assets/8fc8507f-e09c-4c37-b7b9-f8b26bd337a7" />
+<img width="1306" height="722" alt="BBD_Velzia2" src="https://github.com/user-attachments/assets/c3344983-d57e-4b35-aa0f-f67b88645f7b" />
+
 
 
 
